@@ -30,7 +30,6 @@ code/
 │   ├── admin.py        # 系统配置/日志/统计
 │   └── record.py       # 图片上传与 OCR 识别记录
 ├── models/             # 本地 PP-OCRv3 模型文件
-├── uploads/            # 上传图片存储（按年月分组）
 └── frontend/           # Vue 3 前端
     └── src/views/
         ├── Login / Register / FindPwd
